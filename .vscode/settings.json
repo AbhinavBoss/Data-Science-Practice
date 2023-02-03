@@ -1,0 +1,8 @@
+{
+    "editor.fontLigatures": true,
+    "java.project.sourcePaths": [
+        "c++",
+        "JAVA/Practicing java/src"
+    ],
+    "python.formatting.provider": "yapf"
+}

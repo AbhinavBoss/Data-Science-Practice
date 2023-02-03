@@ -1,0 +1,5 @@
+file_1=open('ab.txt','r')
+file_2=open('AB.txt','w')
+file_2.write(file_1.read())
+file_1.close()
+file_2.close()
