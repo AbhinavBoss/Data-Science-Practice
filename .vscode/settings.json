@@ -4,5 +4,9 @@
         "c++",
         "JAVA/Practicing java/src"
     ],
-    "python.formatting.provider": "yapf"
+    "python.formatting.provider": "yapf",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true
 }
